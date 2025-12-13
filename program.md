@@ -16,6 +16,5 @@ title: Program
 | 12:30 – 14:00 | Lunch Break                                     |
 | 14:00 – 15:00 | Invited Talk: Invited Speaker - *Talk Title*    |
 | 15:00 – 15:30 | Selected Poster Presentations 5 & 6             |
-| 15:30 – 16:00 | Coffee Break                                    |
-| 16:00 – 17:30 | Poster Session & Cocktail                       |
-| 17:30         | Closing                                         |
+| 15:30 – 16:30 | Coffee Break & Poster session                   |
+| 16:30 - 17:00 | Future Perspectives and Closing                 |
