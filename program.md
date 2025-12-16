@@ -23,13 +23,13 @@ Planning provisoire :
 | 17:00 - 21:00 | Apéro/Manger/Danser (FYNIS ?)                |
 
 ### Idée invités : 
-- SAINT-JALMES Hervé : Hacker l'IRM (Version cours) Theme : Acquisition MR, physique MR,  Histoire
-- ECKERMANN Marina : Analyse images bio (Algo analyse, travail sur Alzheimer, organoides)
-- COLLEWET Guylaine : Imagerie de la nourriture, Spectro ?
+- SAINT-JALMES Hervé : Hacker l'IRM (Version cours) : Acquisition MR, physique MR,  Histoire
+- ECKERMANN Marina : Analyse images biomedicales (Traitement image, Alzheimer, Organoides)
+- MUSSE Maja : Imagerie de la nourriture, Spectro ?
 - BANNIER Elise : Artéfacts en IRM ?
 - CIUCIU Phillipe : IRM et IA
-- COQUERY Nicolas : NIRS/EEG ? 
+- COQUERY Nicolas : Keynote traitement des données NIRS/EEG ? 
 - QQun du CRMPO pour parler RMN ? 
-- CARUYER Emmanuel : Diff
-- MAUMET Camille : Reproductibilité
+- CARUYER Emmanuel : Cours Diffusion
+- MAUMET Camille : Keynote Reproductibilité
 
