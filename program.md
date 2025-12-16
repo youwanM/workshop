@@ -6,6 +6,7 @@ title: Program
 ## Schedule
 
 Planning provisoire :
+
 | Time          | Event                                        |
 | ------------- | -------------------------------------------- |
 | 08:45 – 09:00 | Welcome & Opening                            |
